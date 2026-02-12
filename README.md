@@ -3,7 +3,6 @@
 A simple front-end clone of the Udemy website built using **HTML5** and **CSS3**.  
 This project replicates the basic layout and design of an online learning platform to practice web development skills.
 
----
 
 ## 📖 About the Project
 
@@ -12,7 +11,6 @@ It focuses on recreating the structure, layout, and styling of a real-world e-le
 
 The main objective of this project is to improve layout design skills and understand how professional websites are structured.
 
----
 
 ## ✨ Features
 
@@ -21,18 +19,15 @@ The main objective of this project is to improve layout design skills and unders
 - Course listing section  
 - Categories section  
 - Clean and structured layout  
-- Footer with useful links  
+- Footer 
 - Built completely using HTML and CSS  
 
----
 
 ## 🛠️ Technologies Used
 
 - HTML5  
 - CSS3  
 - Flexbox  
-
----
 
 ## 🎯 Future Improvements
 
@@ -41,8 +36,6 @@ The main objective of this project is to improve layout design skills and unders
 - Add course filtering feature  
 - Create login and signup pages  
 - Deploy using GitHub Pages  
-
----
 
 ## 📌 Note
 
